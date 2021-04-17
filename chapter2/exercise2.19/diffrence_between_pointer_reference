@@ -1,0 +1,4 @@
+a reference is just a alias of one variable
+a pointer is firstly a variable, which points to one other variable; so pointer can change its
+value to point to another variable, but reference can't. When changing a reference's val, it is
+equally to change the referent's value.
